@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Weather";
+}
+
+<div class="parent">
+    <div class="LeftPanel">
+        <h1>Forecast</h1>
+        <div>
+            <strong>City Name:</strong><input id="txtCity" type="text" />
+            <button id="btnSubmit">Get Weather Forecast</button>
+        </div>
+        <br />
+        <br />
+        <div class="mapouter">
+            <div class="gmap_canvas">
+                <iframe id="gmap_canvas" src="" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+
+            </div>
+        </div>
+    </div>
+    <div class="RightPanel">
+        <div>
+            <h1>Weather Forecast</h1>
+            <br />
+            <table>
+                <tr>
+                    <td><img id="imgWeatherIconUrl" src="" /></td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>City: </strong>
+                        <span id="lblCity"></span>  ,
+                        <span id="lblCountry"></span>
+                        <img id="imgCountry" src="" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>Latitude: </strong>
+                        <label id="lblLat"></label><br />
+                        <strong>Longitude: </strong>
+                        <label id="lblLon"></label>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>Description:</strong>
+                        <label id="lblDescription"></label><br />
+                        <strong>Humidity:</strong>
+                        <label id="lblHumidity"></label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <strong>Temperature: </strong><label id="lblTemp"></label><br />
+                        (Feels Like):<label id="lblTempFeelsLike"></label><br />
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+
+    </div>
+</div>
+
+
+
