@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Htquo97CLuNHrb3J24OIFtH6C3kexSC1G654QrC20HsT34kv2aHOHw5m2E/l/Gfsg+oNAoAfkb79kEgZt+Ko/Q==",
+  "dgSpecHash": "b+WKkqUv4UxBRAVoTNfSUuOT0A9t6uc0/SLXp3rVpYzl4GY0/RNk1g6DA9+G3kFNgxWLz4DpbtLB6x+z1lJzNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manol\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\manol\\source\\repos\\.net-mvc\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manol\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\manol\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",

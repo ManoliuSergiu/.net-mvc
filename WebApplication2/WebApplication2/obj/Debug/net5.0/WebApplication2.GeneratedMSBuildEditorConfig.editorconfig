@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = WebApplication2
-build_property.ProjectDir = C:\Users\manol\Source\Repos\.net-mvc\WebApplication2\WebApplication2\
+build_property.ProjectDir = C:\Users\manol\source\repos\.net-mvc\WebApplication2\WebApplication2\
